@@ -1,0 +1,11 @@
+{
+  "org": "piccolo-orm",
+  "repo": "piccolo_cursor_pagination",
+  "versions": [
+    {
+      "commit": "253210d76fb72ce0bf4a82b5eabc07349d869eb0",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-20T22:12:46.458609+00:00"
+    }
+  ]
+}
