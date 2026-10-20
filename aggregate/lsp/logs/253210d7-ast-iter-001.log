@@ -1,0 +1,7 @@
+[2026-10-20T22:11:43Z] === AST ITERATION 1 START | repo=piccolo-orm/piccolo_cursor_pagination sha=253210d7 ===
+[2026-10-20T22:11:43Z] [iter=1] PHASE START: ast repo=piccolo-orm/piccolo_cursor_pagination sha=253210d7
+[2026-10-20T22:11:43Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T22:11:47Z] [iter=1] AST chunks built count=1 triples=35749
+[2026-10-20T22:11:47Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/253210d76fb72ce0bf4a82b5eabc07349d869eb0/.complete
+[2026-10-20T22:11:47Z] [iter=1] PHASE END: ast elapsed_s=4 elapsed_min=0.1
+[2026-10-20T22:11:47Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
